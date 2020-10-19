@@ -15,7 +15,7 @@
 header {
    position:relative;
    height: 8rem;
-   background: #333;
+   background: red;
    box-shadow: 0 4px 0.3125rem rgba(0,0,0,.3);
  }
 
